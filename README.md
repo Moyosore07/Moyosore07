@@ -1,6 +1,7 @@
 # Hello there; welcome 👋🏾
 
 I'm a an upcoming Software Engineer. A driven and technology-oriented individual. I seek to cultivate strong problem-solving, critical thinking, and collaboration skills to thrive in a dynamic development environment. Ultimately, I hope to emerge as a skilled frontend engineer capable of contributing meaningfully to innovative digital products.
+
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: He/him
