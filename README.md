@@ -5,7 +5,7 @@ I'm a dynamic and highly enthusiastic tech professional with a foundation in Fro
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: He/him
-- 💡 Fun fact: I am currently transitioning to become a scrum Master.
+- 💡 Fun fact: I am currently transitioning to become a Scrum Master.
 - 🌱 I’m currently learning Agile Methodologies and Scrum Frameworks.
 - 😊 I’m looking for help with internships, voluntary roles, small projects to mangange and entry-level opportunities.
 - 💼 Job interests: IT Project Manager, Scrum Master (Intern or Junior level).
